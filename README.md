@@ -123,7 +123,7 @@ El proyecto incluye:
 # 📂 Estructura del proyecto
 
 ```bash
-Vue-Ecom/
+PlataformaTiendaOnlineVue/
 │
 ├── public/                 # Archivos públicos
 ├── src/
@@ -158,7 +158,7 @@ Vue-Ecom/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/usuario/Vue-Ecom.git
+git clone https://github.com/isairey/PlataformaTiendaOnlineVue.git
 ```
 
 ---
@@ -166,7 +166,7 @@ git clone https://github.com/usuario/Vue-Ecom.git
 ## 2️⃣ Entrar al proyecto
 
 ```bash
-cd Vue-Ecom
+cd PlataformaTiendaOnlineVue
 ```
 
 ---
@@ -292,7 +292,7 @@ git push origin feature/nueva-funcionalidad
 
 <div align="center">
 
-## Vue Store-Front Template — E-Commerce UI Developer
+## Isai Reyes — E-Commerce UI Developer
 
 Plantilla moderna desarrollada para aprender y construir tiendas online con Vue.js 🚀
 
